@@ -29,3 +29,5 @@ Analisis dalam proyek ini melalui beberapa tahapan berikut.
 
 
 ## 5. File Proyek
+
+[Notebook Python Proyek](./Log_Reg_Project.ipynb)
